@@ -1,6 +1,6 @@
 # AI Coding News
 
-Weekly briefings on AI coding tools, coding agents, and agentic development workflows.
+Every Friday: AI coding tools, coding agents, and agentic development workflows.
 
 ## Scope
 
